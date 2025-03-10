@@ -1,5 +1,5 @@
 
-A simple MCP ping pong implementation. 
+# MCP ping pong example 
 
 For more info on the MCP protocol, please check out: 
 
